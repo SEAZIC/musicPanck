@@ -1,0 +1,10 @@
+turtolLong,data/,santa
+jinglebells,data/,turtolrab
+song_26_candle_night,data/,hart
+song_05_love_wind,data/,ghost
+game_maoudamashii_1_battle22,data/
+game_maoudamashii_1_battle28,data/
+game_maoudamashii_1_battle29,data/
+game_maoudamashii_1_battle34,data/
+game_maoudamashii_7_rock28,data/
+game_maoudamashii_7_rock29,data/

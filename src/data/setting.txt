@@ -1,0 +1,4 @@
+turtolLong,data/,かめうさ
+jinglebells,data/,さんた
+song_26_candle_night,/Users/Seazic1/Desktop/,はーと
+song_05_love_wind,/Users/Seazic1/Desktop/,おばけ
